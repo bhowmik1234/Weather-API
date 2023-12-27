@@ -4,7 +4,7 @@
 
 In the project directory, you can run:
 ### Before starting the development server
-- Install node moule using `npm install'
+- Install node moule using `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
