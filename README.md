@@ -1,9 +1,10 @@
-# Weather forecase API (using react)
+# Weather forecaste API (using react)
 
 ## Available Scripts
 
 In the project directory, you can run:
-
+### Before starting the development server
+- Install node moule using `npm install'
 ### `npm start`
 
 Runs the app in the development mode.\
