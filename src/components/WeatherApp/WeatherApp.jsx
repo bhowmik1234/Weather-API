@@ -12,7 +12,7 @@ import humidity_icon from "../Assets/humidity.png";
 
 const WeatherApp = () => {
 
-    const API_KEY = '741eca894b264c9f05a6554cc3ee54c5';
+    const API_KEY = {API_KEY};
 
     const [wicon, setWicon] = useState(clear_icon);
 
