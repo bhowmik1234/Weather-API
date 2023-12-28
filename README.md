@@ -5,6 +5,8 @@
 In the project directory, you can run:
 ### Before starting the development server
 - Install node moule using `npm install`
+- Go to [OpenWeather website](https://openweathermap.org/); Create your account
+- - replace `api key` in the project
 ### `npm start`
 
 Runs the app in the development mode.\
